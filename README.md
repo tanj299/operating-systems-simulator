@@ -29,7 +29,7 @@ The program will start listening for command input by users including:
 >> D <INT HARD-DISK-NUMBER>
 ```
 
-#### fork() current process using CPU: 
+#### Copy current process using CPU: 
 ```
 >> fork
 ```
